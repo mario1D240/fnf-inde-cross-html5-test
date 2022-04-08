@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-13,
+				26
+			],
+			"loop": false,
+			"anim": "eduardogolpe",
+			"fps": 24,
+			"name": "eduardogolpe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				11
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EduardoDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EduardoUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				20
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EduardoRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				18
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "EduardoIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				22
+			],
+			"loop": false,
+			"anim": "EduardoWell",
+			"fps": 24,
+			"name": "EduardoWell",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eduardogolpe",
+	"position": [
+		230,
+		-70
+	],
+	"healthicon": "Eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		102,
+		0
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

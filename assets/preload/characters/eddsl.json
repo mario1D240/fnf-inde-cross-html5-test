@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-193
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EddEnterLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-193
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EddEnterDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-193
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EddEnterUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-193
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EddEnterRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-61
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EddEnterIdle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EddEnter",
+	"position": [
+		-1220,
+		370
+	],
+	"healthicon": "bfedd",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-650,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

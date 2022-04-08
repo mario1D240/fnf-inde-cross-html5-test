@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				27
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tord Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				8
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tord Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				90
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tord Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				8
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tord Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				16
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tord Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				37
+			],
+			"fps": 16,
+			"anim": "Ha",
+			"indices": [],
+			"name": "Tord Ha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				48
+			],
+			"fps": 4,
+			"anim": "OhNo",
+			"indices": [],
+			"name": "Tord OhNo"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				23
+			],
+			"fps": 24,
+			"anim": "Pissed",
+			"indices": [],
+			"name": "Tord Pissed"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "OhNoa",
+			"indices": [],
+			"name": "Tord OhNoa",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tord",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "Tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		86
+	],
+	"camera_position": [
+		-480,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
