@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bfviendo.png">
+<SubTexture name="BFLookUp0000" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0001" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0002" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0003" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0004" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0005" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0006" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0007" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="BFLookUp0008" x="0" y="0" width="391" height="417" frameX="0" frameY="0" frameWidth="391" frameHeight="417" />
+</TextureAtlas>

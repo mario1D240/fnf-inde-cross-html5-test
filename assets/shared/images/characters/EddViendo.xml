@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EddViendo.png">
+<SubTexture name="EddLookingUp0000" x="1190" y="0" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0001" x="0" y="646" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0002" x="0" y="646" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0003" x="1190" y="0" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0004" x="1190" y="0" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0005" x="0" y="646" width="297" height="642" frameX="-3" frameY="-4" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0006" x="297" y="646" width="303" height="640" frameX="0" frameY="-6" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0007" x="600" y="646" width="303" height="640" frameX="0" frameY="-6" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0008" x="594" y="0" width="298" height="644" frameX="-2" frameY="-2" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0009" x="892" y="0" width="298" height="644" frameX="-2" frameY="-2" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0010" x="0" y="0" width="297" height="646" frameX="-3" frameY="0" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0011" x="297" y="0" width="297" height="646" frameX="-3" frameY="0" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0012" x="297" y="0" width="297" height="646" frameX="-3" frameY="0" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0013" x="0" y="0" width="297" height="646" frameX="-3" frameY="0" frameWidth="303" frameHeight="646" />
+<SubTexture name="EddLookingUp0014" x="0" y="0" width="297" height="646" frameX="-3" frameY="0" frameWidth="303" frameHeight="646" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EddTurnToTord.png">
+<SubTexture name="Idle0000" x="1600" y="0" width="540" height="594" frameX="-1" frameY="-12" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0001" x="0" y="1213" width="541" height="594" frameX="0" frameY="-12" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0002" x="534" y="607" width="529" height="602" frameX="-4" frameY="-5" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0003" x="1063" y="607" width="529" height="602" frameX="-4" frameY="-5" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0004" x="1067" y="0" width="533" height="606" frameX="-4" frameY="-1" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0005" x="0" y="607" width="534" height="606" frameX="-3" frameY="-1" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0006" x="0" y="0" width="534" height="607" frameX="-3" frameY="0" frameWidth="541" frameHeight="607" />
+<SubTexture name="Idle0007" x="534" y="0" width="533" height="607" frameX="-4" frameY="0" frameWidth="541" frameHeight="607" />
+</TextureAtlas>

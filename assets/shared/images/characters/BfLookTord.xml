@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BfLookTord.png">
+<SubTexture name="Idle0000" x="0" y="410" width="403" height="392" frameX="0" frameY="-19" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0001" x="403" y="410" width="402" height="392" frameX="0" frameY="-19" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0002" x="793" y="0" width="392" height="409" frameX="-6" frameY="-3" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0003" x="793" y="0" width="392" height="409" frameX="-6" frameY="-3" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0004" x="0" y="0" width="396" height="410" frameX="-3" frameY="-1" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0005" x="0" y="0" width="396" height="410" frameX="-3" frameY="-1" frameWidth="403" frameHeight="412" />
+<SubTexture name="Idle0006" x="396" y="0" width="397" height="410" frameX="-3" frameY="-1" frameWidth="403" frameHeight="412" />
+</TextureAtlas>

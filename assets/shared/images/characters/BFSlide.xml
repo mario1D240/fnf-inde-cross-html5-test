@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFSlide.png"><SubTexture name="BFSlideInDown0000" x="1560" y="513" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInDown0001" x="1560" y="513" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInDown0002" x="520" y="547" width="520" height="513" frameX="0" frameY="0" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInDown0003" x="520" y="547" width="520" height="513" frameX="0" frameY="0" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInDown0004" x="0" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInDown0005" x="0" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0000" x="520" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0001" x="520" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0002" x="1040" y="547" width="520" height="513" frameX="0" frameY="0" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0003" x="1040" y="547" width="520" height="513" frameX="0" frameY="0" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0004" x="1040" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0005" x="1040" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInLeft0006" x="1040" y="547" width="520" height="513" frameX="0" frameY="0" frameWidth="521" frameHeight="513" />
+<SubTexture name="BFSlideInRight0000" x="1040" y="0" width="520" height="543" frameX="0" frameY="-1" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0001" x="1040" y="0" width="520" height="543" frameX="0" frameY="-1" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0002" x="0" y="0" width="520" height="547" frameX="0" frameY="0" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0003" x="0" y="0" width="520" height="547" frameX="0" frameY="0" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0004" x="520" y="0" width="520" height="546" frameX="0" frameY="-1" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0005" x="520" y="0" width="520" height="546" frameX="0" frameY="-1" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0006" x="0" y="0" width="520" height="547" frameX="0" frameY="0" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInRight0007" x="0" y="0" width="520" height="547" frameX="0" frameY="0" frameWidth="521" frameHeight="547" />
+<SubTexture name="BFSlideInUp0000" x="1560" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0001" x="1560" y="1061" width="520" height="512" frameX="0" frameY="-1" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0002" x="0" y="547" width="520" height="514" frameX="0" frameY="0" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0003" x="0" y="547" width="520" height="514" frameX="0" frameY="0" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0004" x="1560" y="0" width="520" height="513" frameX="0" frameY="-1" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0005" x="1560" y="0" width="520" height="513" frameX="0" frameY="-1" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0006" x="0" y="547" width="520" height="514" frameX="0" frameY="0" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInUp0007" x="0" y="547" width="520" height="514" frameX="0" frameY="0" frameWidth="521" frameHeight="514" />
+<SubTexture name="BFSlideInIdle0000" x="1560" y="1025" width="3" height="3" frameX="0" frameY="0" frameWidth="3" frameHeight="3" />
+</TextureAtlas>

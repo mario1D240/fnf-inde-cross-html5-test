@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EddEnter.png"><SubTexture name="EddEnterDown0000" x="0" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterDown0001" x="0" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterDown0002" x="499" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterDown0003" x="499" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterDown0004" x="0" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterLeft0000" x="499" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterLeft0001" x="499" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterLeft0002" x="998" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterLeft0003" x="998" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterLeft0004" x="998" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterRight0000" x="0" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterRight0001" x="0" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterRight0002" x="499" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterRight0003" x="499" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterRight0004" x="998" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterUp0000" x="1497" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterUp0001" x="1497" y="0" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterUp0002" x="1497" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterUp0003" x="1497" y="438" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterUp0004" x="1497" y="876" width="499" height="438" frameX="0" frameY="0" frameWidth="500" frameHeight="438" />
+<SubTexture name="EddEnterIdle0000" x="0" y="1314" width="3" height="3" frameX="0" frameY="0" frameWidth="3" frameHeight="3" />
+</TextureAtlas>
