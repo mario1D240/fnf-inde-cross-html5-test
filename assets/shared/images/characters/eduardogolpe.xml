@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="eduardogolpe.png"><SubTexture name="eduardogolpe0000" x="3692" y="2042" width="615" height="669" frameX="-1" frameY="-17" frameWidth="616" frameHeight="686" />
+<TextureAtlas imagePath="eduardogolpe.png">
+  
+
+<SubTexture name="eduardogolpe0000" x="3692" y="2042" width="615" height="669" frameX="-1" frameY="-17" frameWidth="616" frameHeight="686" />
 <SubTexture name="eduardogolpe0001" x="3692" y="2042" width="615" height="669" frameX="-1" frameY="-17" frameWidth="616" frameHeight="686" />
 <SubTexture name="eduardogolpe0002" x="2461" y="684" width="611" height="683" frameX="-5" frameY="-2" frameWidth="616" frameHeight="686" />
 <SubTexture name="eduardogolpe0003" x="2461" y="684" width="611" height="683" frameX="-5" frameY="-2" frameWidth="616" frameHeight="686" />
