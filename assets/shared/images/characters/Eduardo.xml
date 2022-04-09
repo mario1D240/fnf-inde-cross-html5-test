@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Eduardo.png"><SubTexture name="EduardoDown0000" x="0" y="2033" width="367" height="639" frameX="0" frameY="-13" frameWidth="367" frameHeight="652" />
+<TextureAtlas imagePath="Eduardo.png">
+  
+
+<SubTexture name="EduardoDown0000" x="0" y="2033" width="367" height="639" frameX="0" frameY="-13" frameWidth="367" frameHeight="652" />
 <SubTexture name="EduardoDown0001" x="0" y="2033" width="367" height="639" frameX="0" frameY="-13" frameWidth="367" frameHeight="652" />
 <SubTexture name="EduardoDown0002" x="2588" y="0" width="353" height="651" frameX="-8" frameY="-1" frameWidth="367" frameHeight="652" />
 <SubTexture name="EduardoDown0003" x="2588" y="0" width="353" height="651" frameX="-8" frameY="-1" frameWidth="367" frameHeight="652" />
