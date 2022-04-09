@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="EddSide.png"><SubTexture name="EddSideDown0000" x="2966" y="0" width="403" height="583" frameX="0" frameY="-8" frameWidth="403" frameHeight="592" />
+<TextureAtlas imagePath="EddSide.png">
+
+
+<SubTexture name="EddSideDown0000" x="2966" y="0" width="403" height="583" frameX="0" frameY="-8" frameWidth="403" frameHeight="592" />
 <SubTexture name="EddSideDown0001" x="2966" y="583" width="403" height="583" frameX="0" frameY="-8" frameWidth="403" frameHeight="592" />
 <SubTexture name="EddSideDown0002" x="1094" y="2021" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592" />
 <SubTexture name="EddSideDown0003" x="1870" y="2021" width="388" height="591" frameX="-8" frameY="0" frameWidth="403" frameHeight="592" />
