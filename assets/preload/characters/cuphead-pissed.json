@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1"
+		},
+		{
+			"offsets": [
+				147,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-25,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				23,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-40,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				405,
+				296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "boom",
+			"indices": [],
+			"name": "Ha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-10
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "Ouch",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hadokenROUND",
+			"loop": false,
+			"name": "Round"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cuphead Pissed",
+	"position": [
+		-20,
+		360
+	],
+	"healthicon": "madcup",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		0,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

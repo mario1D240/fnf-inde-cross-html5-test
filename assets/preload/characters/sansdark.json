@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-15
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Sans FNF 02 instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sansDark",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
