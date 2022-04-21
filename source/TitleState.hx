@@ -649,7 +649,7 @@ class TitleState extends MusicBeatState
 			remove(credGroup);
 			skippedIntro = true;
 			
-			FlxG.switchState(new VideoState('assets/videos/intro.webm', new MainMenuState()));
+			FlxG.switchState(new VideoState('assets/videos/intro.webm', new YourClass()
 		}
 	}
 }
