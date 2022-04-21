@@ -648,8 +648,7 @@ class TitleState extends MusicBeatState
 			FlxG.camera.flash(FlxColor.WHITE, 4);
 			remove(credGroup);
 			skippedIntro = true;
-			
-			FlxG.switchState(new VideoState('assets/videos/intro.webm', new YourClass()
+		
 		}
 	}
 }
