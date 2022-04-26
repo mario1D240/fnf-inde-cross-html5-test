@@ -6,17 +6,17 @@
 	],
 
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"sans",
+		"fun",
+		""
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "stage",
 
-	"storyName": "Spooky Month",
+	"storyName": "bad time",
 	"weekBefore": "week1",
 	"weekName": "Week 2",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
