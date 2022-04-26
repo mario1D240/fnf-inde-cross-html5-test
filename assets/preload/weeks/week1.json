@@ -1,7 +1,7 @@
 {
   "songs": [
     [
-      "Snake-Eyes",
+      "Bopeebo",
       "cup",
       [
         255,
@@ -10,7 +10,7 @@
       ]
     ],
     [
-      "Technicolor-Tussle",
+      "Fresh",
       "cup",
       [
         255,
@@ -19,7 +19,7 @@
       ]
     ],
     [
-      "Knockout",
+      "Dad Battle",
       "cup",
       [
         255,
@@ -30,7 +30,7 @@
   ],
   "hideFreeplay": false,
   "weekBackground": "snake",
-  "difficulties": "hard",
+  "difficulties": "normal",
   "weekCharacters": [
     "bg",
     "fun3",
@@ -43,7 +43,7 @@
     113,
     253
   ],
-  "hideStoryMode": false,
+  "hideStoryMode": true,
   "weekBefore": "tutorial",
   "startUnlocked": true
 }
