@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Cuphead Intro phase 2 instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cuphead_standing instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge instance 1"
+		},
+		{
+			"offsets": [
+				-30,
+				-20
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				145,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hurt instance 1"
+		},
+		{
+			"offsets": [
+				120,
+				0
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Shoot instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				85
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cuphead_Remastered",
+	"position": [
+		22,
+		455
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		30,
+		0
+	],
+	"camera_position": [
+		-215,
+		-128
+	],
+	"sing_duration": 6,
+	"scale": 1.75
+}
