@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TextureAtlas imagePath="BoyFriend_Rain.png" width="2201" height="1926">
+  
+
   <SubTexture name="BF NOTE DOWN MISS instance 101" x="0" y="0"  width="197" height="174" frameX="-584" frameY="-156" frameWidth="990" frameHeight="400"/>
   <SubTexture name="BF NOTE DOWN instance 101" x="197" y="0"  width="187" height="182" frameX="-588" frameY="-148" frameWidth="990" frameHeight="400"/>
   <SubTexture name="BF NOTE DOWN instance 103" x="384" y="0"  width="187" height="184" frameX="-587" frameY="-147" frameWidth="990" frameHeight="400"/>
