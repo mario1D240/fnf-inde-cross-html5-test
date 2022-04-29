@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TextureAtlas imagePath="Cuphead Pissed.png" width="3744" height="3337">
+  
+  
   <SubTexture name="Down instance 100" x="0" y="0"  width="296" height="213" frameX="-277" frameY="-314" frameWidth="800" frameHeight="700"/>
   <SubTexture name="pewdown instance 10" x="296" y="0"  width="340" height="213" frameX="-261" frameY="-315" frameWidth="800" frameHeight="700"/>
   <SubTexture name="Down instance 101" x="636" y="0"  width="300" height="234" frameX="-282" frameY="-294" frameWidth="800" frameHeight="700"/>
