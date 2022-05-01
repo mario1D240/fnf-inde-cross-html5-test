@@ -1,78 +1,144 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
+			"indices": [],
+			"name": "Sans FNF instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				250,
-				-23
+				49,
+				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
+			"indices": [],
+			"name": "Left instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				10,
-				-60
+				-12,
+				-16
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
+			"indices": [],
+			"name": "Down instance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				14,
-				71
+				-18,
+				27
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Mom Up Pose",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-18,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance"
+		},
+		{
+			"offsets": [
+				-18,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right 02 instance"
+		},
+		{
+			"offsets": [
+				49,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left 02 instance"
+		},
+		{
+			"offsets": [
+				-12,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down 02 instance"
+		},
+		{
+			"offsets": [
+				36,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up 02 instance"
+		},
+		{
+			"offsets": [
+				-15,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Sans FNF 02 instance"
+		},
+		{
+			"offsets": [
+				98,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "SansDodge"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Mom_Assets",
 	"position": [
 		0,
-		0
+		200
 	],
-	"healthicon": "mom",
+	"healthicon": "sans",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		0,
+		0
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
