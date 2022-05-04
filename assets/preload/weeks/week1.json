@@ -2,7 +2,7 @@
   "songs": [
     [
       "Snake-Eyes",
-      "cup",
+      "bf-old",
       [
         255,
         255,
@@ -11,7 +11,7 @@
     ],
     [
       "Technicolor-Tussle",
-      "cup",
+      "bf-old",
       [
         255,
         255,
@@ -20,7 +20,7 @@
     ],
     [
       "Knockout",
-      "cup",
+      "gf",
       [
         255,
         255,
@@ -30,7 +30,6 @@
   ],
   "hideFreeplay": false,
   "weekBackground": "snake",
-  "difficulties": "hard",
   "weekCharacters": [
     "bg",
     "fun3",
