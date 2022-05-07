@@ -1,11 +1,29 @@
 ---SECTION START---
 :class:Cutscene1,
+:disableTypeSound:
 :switchSound:GF_1
 :bg:cutscenes/frame_000_delay-0.08s
-:bg:cutscenes/frame_001_delay-0.09s
-:bg:cutscenes/frame_002_delay-0.08s
-:bg:cutscenes/frame_003_delay-0.09s
+:bg:cutscenes/frame_001_delay-0.08s
+:bg:cutscenes/frame_002_delay-0.09s
+:bg:cutscenes/frame_003_delay-0.08s
 :bg:cutscenes/frame_004_delay-0.08s
 :bg:cutscenes/frame_005_delay-0.09s
-:disableTypeSound:
+:bg:cutscenes/frame_006_delay-0.08s
+:bg:cutscenes/frame_007_delay-0.08s
+:bg:cutscenes/frame_008_delay-0.09s
+:bg:cutscenes/frame_009_delay-0.08s
+:bg:cutscenes/frame_010_delay-0.08s
+:bg:cutscenes/frame_011_delay-0.09s
+:bg:cutscenes/frame_012_delay-0.08s
+:bg:cutscenes/frame_013_delay-0.08s
+:bg:cutscenes/frame_014_delay-0.09s
+:bg:cutscenes/frame_015_delay-0.08s
+:bg:cutscenes/frame_016_delay-0.08s
+:bg:cutscenes/frame_017_delay-0.09s
+:bg:cutscenes/frame_018_delay-0.08s
+:bg:cutscenes/frame_019_delay-0.08s
+:bg:cutscenes/frame_020_delay-0.09s
+:bg:cutscenes/frame_021_delay-0.08s
+:bg:cutscenes/frame_022_delay-0.08s
+:bg:cutscenes/frame_023_delay-0.09s
 ---SECTION END---
