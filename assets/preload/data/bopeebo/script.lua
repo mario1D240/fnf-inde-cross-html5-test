@@ -1,7 +1,6 @@
-local allowCountdown = false
 function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
-		startVideo('testVideo');
+		startVideo('test');
 		allowCountdown = true;
 		return Function_Stop;
 	end
