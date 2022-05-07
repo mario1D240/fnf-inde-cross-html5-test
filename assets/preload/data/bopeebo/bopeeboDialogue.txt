@@ -1,19 +1,14 @@
 ---SECTION START---
 :class:Cutscene1,
 :bg:cutscenes/0
+:bg:cutscenes/1
+:bg:cutscenes/2
 :musicloop:bgms/0
 :disableTypeSound:
 :switchSound:gfText
-:enableTypeSound:
-:gf-letsgo:%d1%
 :switchSound:bfText
-:bf-left:%d2%
 :switchSound:gfText
-:gf-letsgo:%d3%
 :switchSound:bfText
-:bf-left:%d4%
-:disableTypeSound:
-:sound:GF_3
 :gf-talking:%d5%
 :switchSound:bfText
 :enableTypeSound:
