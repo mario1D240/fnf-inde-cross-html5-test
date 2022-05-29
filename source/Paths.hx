@@ -118,6 +118,11 @@ class Paths
 	{
 		return getPath('data/$key.txt', TEXT, library);
 	}
+	
+	inline static public function webm(key:String, ?library:String)
+	{
+		return getPath('videos/v1.webm', TEXT, library);
+	}
 
 	inline static public function xml(key:String, ?library:String)
 	{
