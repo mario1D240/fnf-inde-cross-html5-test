@@ -335,7 +335,7 @@ class PlayState extends MusicBeatState
 		#if desktop
 		storyDifficultyText = '' + CoolUtil.difficultyStuff[storyDifficulty][0];
 
-		// String that contains the mode defined here so it isn't necessary to call changePresence for each mode
+		// String that contains the mode defined here so it isn't necessary to call changePresence for each mode,ok
 		if (isStoryMode)
 		{
 			detailsText = "Story Mode: " + WeekData.getCurrentWeek().weekName;
